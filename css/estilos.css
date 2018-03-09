@@ -30,7 +30,7 @@ body {
 }
 #reloj{
     display: none;
-    color: yellow;
+    color: green;
     font-size: 40px;
 }
 .rejilla.fuera{
@@ -115,7 +115,7 @@ body {
 
 }
 #game-over p{
-    color: yellow;
+    color: red;
     font-size: 140px;
 
 }
